@@ -8,7 +8,7 @@ The tests are designed to validate the Serverest application and include scenari
 
 -Valid Login
 
--Add product on the system
+-Logout
 
 -Api Tests Scenarios:(Swagger API: https://serverest.dev/)
 -Valid Sign Up
