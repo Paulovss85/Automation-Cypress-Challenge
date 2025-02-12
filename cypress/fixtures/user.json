@@ -1,0 +1,6 @@
+{
+  "name": "Test User",
+  "email": "usuario_1739374880894@email.com",
+  "password": "senha_segura",
+  "administrador": true
+}

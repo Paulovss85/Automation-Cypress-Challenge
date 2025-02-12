@@ -1,0 +1,16 @@
+{
+  "name": "beecrowd_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.0.2",
+    "mochawesome": "^7.1.3"
+  }
+}
